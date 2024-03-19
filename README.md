@@ -29,4 +29,21 @@
   1x USB cable (to upload code)
 </pre>
 
+______________________________________________________________________________________________________________________________________________________________________
+
+**Hardware connections:**
+
+<pre>
+  NOTE: It is a good practice to check the PCB for vias before printing it.
+
+  You can print the PCB using one of these PCB suppliers (you can also choose your own PCB supplier):
+  JLCpcb
+  PCBpower (recommended for Indians)
+  Fritzing FAB
+
+  After getting the PCB, you can solder all the components to it.
+</pre>
+________________________________________________________________________________________________________________________________________________________________________
+
+
 
