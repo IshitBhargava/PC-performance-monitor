@@ -42,8 +42,28 @@ ________________________________________________________________________________
   Fritzing FAB
 
   After getting the PCB, you can solder all the components to it.
+  Note: I suggest you to use male header to connect th Arduino UNO as it must be seperated from the PCB in order to upload the code.
 </pre>
 ________________________________________________________________________________________________________________________________________________________________________
 
+**Steps:**
+<pre>
+  Step 1: Detach the Arduino UNO from the PCB.
+  Step 2: Connect the Arduino UNO using the USB cable.
+  Step 3: Open the code named- "PCdisplay_extreme".
+  Step 4: Select your board, An Arduino UNO in this case.
+  Step 5: Select the port on which your Arduino UNO is connected.
+  Step 6: Hit the upload button, usually represented by a arrow.
+  Step 7: After the code is uploaded, attach the Arduino UNO back on the PCB.
+  Step 7: Run OpenHardwareMonitor.exe
+  Step 7: Go to 'options', then to 'serial', then to 'configure' then select the COM port on which your Arduino UNO is connected.
+  Step 8: Click on close on the 'configuration' window.
+  Step 9: Click on 'run' in 'options => serial => run'
+  Step 10: it should shwo the perfomance on the LCD display.
 
+  NOTE: Don't close OpenHardwareMonitor while you are monitoring the perfomance, but you can minimize it.
+  
+</pre>
+
+___________________________________________________________________________________________________________________________________________________________________________
 
