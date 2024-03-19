@@ -8,6 +8,7 @@
 
   To get these applications, you can:
   Arduino IDE - Install from - https://www.arduino.cc/en/software
-  OpenHardwareMonitor 2019 - Move "Oxyplot.dll
+  OpenHardwareMonitor 2019 - Move "Aga.Controls.dll , License.html , OpenHardwareMonitor.config , OpenHardwareMonitor.exe , OpenHardwareMonitor.exe.config , 
+ openHardwareMonitorLib.dll , OxyPlot.WindowsForms.dll , OxyPlot.dll
   
 </pre>
